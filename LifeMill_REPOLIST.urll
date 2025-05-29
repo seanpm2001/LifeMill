@@ -2,10 +2,10 @@
 //// LifeMill_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all LifeMill project repositories by @seanpm2001
-//// As of 2025, Tuesday, May 27th
+//// As of 2025, Wednesday, May 28th
 
 //// ----------------------------------------------------- \\\\
-//// LifeMill Project (16)
+//// LifeMill Project (22)
 //// ----------------------------------------------------- \\\\
 
 //// LifeMill Core (1)
@@ -51,9 +51,24 @@ https://github.com/seanpm2001/LifeMill_PKB_Docs
 https://github.com/seanpm2001/LifeMill_Contacts
 https://github.com/seanpm2001/LifeMill_Contacts_Docs
 
+//// LifeMill Explorer (2)
+
+https://github.com/seanpm2001/LifeMill_Explorer
+https://github.com/seanpm2001/LifeMill_Explorer_Docs
+
+//// LifeMill Web App (2)
+
+https://github.com/seanpm2001/LifeMill_WebApp
+https://github.com/seanpm2001/LifeMill_WebApp_Docs
+
+//// LifeMill Desktop App (2)
+
+https://github.com/seanpm2001/LifeMill_DesktopApp
+https://github.com/seanpm2001/LifeMill_DesktopApp_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (LifeMill): 16
-//// 1+1+2+2+2+2+2+2+2=16
+//// Repo count (LifeMill): 22
+//// 1+1+2+2+2+2+2+2+2+2+2+2=22
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -73,15 +88,15 @@ https://github.com/seanpm2001/JScribe
 //// Repo count (See also): 2
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 18
-//// 16+2=18
+//// Total repo count: 24
+//// 22+2=24
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Tuesday, May 27th at 06:21 pm PST)
-//// Line count (including blank lines and compiler line): 88
+//// File version: 3 (2025, Wednesday, May 28th at 06:52 pm PST)
+//// Line count (including blank lines and compiler line): 103
 //// ----------------------------------------------------- \\\\
 
 //// End of file
